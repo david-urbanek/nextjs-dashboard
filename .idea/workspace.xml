@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5321748b-502b-4d01-87ee-51201ff1eb29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/customers/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/definitions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/placeholder-data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/seed/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/acme-logo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/customers/table.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/nav-links.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/sidenav.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/fonts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/breadcrumbs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/buttons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/create-form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/edit-form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/pagination.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/status.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/table.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/login-form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/skeletons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/customers/amy-burns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/customers/balazs-orban.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/customers/delba-de-oliveira.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/customers/evil-rabbit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/customers/lee-robinson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/customers/michael-novotny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/hero-desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/hero-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/public/opengraph-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="33hdU2WjMQWcVGSpKqgP9DNXjim" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/davidurbanek/repos/nextjs-dashboard",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/nextjs-dashboard" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5321748b-502b-4d01-87ee-51201ff1eb29" name="Changes" comment="" />
+      <created>1759773249451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759773249451</updated>
+      <workItem from="1759773250557" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
